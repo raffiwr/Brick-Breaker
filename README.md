@@ -3,6 +3,13 @@
 **This is the 3rd game I made**
 **I made with the intention of trying to understand the in and outs of Unity**
 
+----
+
+**How to play :**
+Use A/D or Left and Right arrow keys to move the paddles
+
+----
+
 | Scripts | Description |
 |---------|-------------|
 |Paddle.cs|This code is used to let the player move the paddle around the playfield|
